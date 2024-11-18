@@ -103,7 +103,6 @@ CREATE TABLE employees (
 ---
 
 ## Future Enhancements
-- Implement card view for employee records.
 - Add file type and size validation for profile photo uploads.
 - Introduce pagination for large employee lists.
 
